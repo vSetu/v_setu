@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "827219904850",
+    "firebase_url": "https://v-library-1-default-rtdb.firebaseio.com",
+    "project_id": "v-library-1",
+    "storage_bucket": "v-library-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827219904850:android:60df094e570ce83c32d28b",
+        "android_client_info": {
+          "package_name": "com.v_library.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUW6U5YLJESJZ7T3vfPQyWVl6Du8rQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827219904850:android:4db85bdebd98c43d32d28b",
+        "android_client_info": {
+          "package_name": "com.v_library.v_library_setu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUW6U5YLJESJZ7T3vfPQyWVl6Du8rQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827219904850:android:046a0d4d60f991f432d28b",
+        "android_client_info": {
+          "package_name": "in.vlibrary.vlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZUW6U5YLJESJZ7T3vfPQyWVl6Du8rQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827219904850-q4of819q0toga7htl8lrimvns2m2tsk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
